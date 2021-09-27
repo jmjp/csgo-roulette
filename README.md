@@ -1,6 +1,6 @@
 # csgo-roulette
 A csgo gambling roulette make with VueJS 3
-[a link](https://versusbetting.un1versum.com/#/)
+# [DEMO](https://versusbetting.un1versum.com/#/)
 =======
 # versus-betting
 
